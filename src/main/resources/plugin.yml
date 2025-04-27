@@ -1,0 +1,5 @@
+name: DynamicLight
+main: org.nukkit.dynamiclight.DynamicLightPlugin
+version: 1.0.0
+api: [1.0.0]
+author: secklh
