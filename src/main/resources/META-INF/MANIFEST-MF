@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Plugin-Name: DynamicLight
+Plugin-Main-Class: org.nukkit.dynamiclight.DynamicLightPlugin
+Plugin-Version: 1.0.0
